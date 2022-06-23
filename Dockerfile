@@ -1,5 +1,5 @@
-# PopCat Echo
-# (c) 2021 SuperSonic (https://github.com/supersonictw).
+# Go example
+# (c) 2022
 
 FROM golang:alpine
 
